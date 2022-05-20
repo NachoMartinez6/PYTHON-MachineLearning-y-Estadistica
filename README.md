@@ -9,3 +9,14 @@ PD: Iré subiendo más proyectos conforme los tenga limpios y documentados.
 Mis mejores deseos
 
 
+Proyectos principales:
+
+## Multiple Linear Regression
+
+
+![Imagen]()
+
+## Logistic Regression 
+
+
+![Imagen]()
