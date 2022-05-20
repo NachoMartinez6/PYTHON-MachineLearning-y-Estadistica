@@ -12,11 +12,29 @@ Mis mejores deseos
 Proyectos principales:
 
 ## Multiple Linear Regression
+Sales from different marketing sources (Tv y Sales)
+
+Puntos interesantes a destacar:
+- Heatmap para matriz de correlación.
+- VIF para detectar multicolinearidad.
+- Filtering using Zscore.
+- Evaluación requisitos del modelo (Residuals, autocorrelation, normality distribuited...)
+- Construcción del modelo
 
 
-![Imagen]()
+![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/MLR_.jpg)
 
 ## Logistic Regression 
+Modelo logit para predecir la supervivencia del titanic.
 
+### ANEXO
 
-![Imagen]()
+Se que es un proyecto muy visto, dataset muy conocido de Kaggle. Sin embargo, más que por el modelo, considero que trato temas muy interesantes desde el principio, como:
+- Tipos de variables
+- Transformación de variables
+- Tratamiento de datos nulos
+- Imputación de datos
+- Expresiones regulares
+...
+
+![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/LR_.jpg)
