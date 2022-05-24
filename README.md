@@ -11,7 +11,7 @@ Mis mejores deseos
 
 Proyectos principales:
 
-## Multiple Linear Regression
+##  ![Multiple Linear Regression](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/jupyter%20notebooks/MULTIPLE%20REGRESSION.ipynb)
 Sales from different marketing sources (Tv y Sales)
 
 Puntos interesantes a destacar:
