@@ -24,7 +24,7 @@ Puntos interesantes a destacar:
 
 ![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/MLR_.jpg)
 
-## Logistic Regression 
+## [Logistic Regression](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/jupyter%20notebooks/LOGIT%20REGRESSION%20.ipynb)
 Modelo logit para predecir la supervivencia del titanic.
 
 ### ANEXO
