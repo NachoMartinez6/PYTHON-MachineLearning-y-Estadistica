@@ -20,7 +20,8 @@ Puntos interesantes a destacar:
 - Filtering using Zscore.
 - Evaluación requisitos del modelo (Residuals, autocorrelation, normality distribuited...)
 - Construcción del modelo
-
+- ...
+<br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/MLR_.jpg)
 
@@ -35,6 +36,7 @@ Se que es un proyecto muy visto, dataset muy conocido de Kaggle. Sin embargo, m�
 - Tratamiento de datos nulos
 - Imputación de datos
 - Expresiones regulares
-...
+- ...
+<br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/LR_.jpg)
