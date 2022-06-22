@@ -11,7 +11,7 @@ Mis mejores deseos
 
 Proyectos principales:
 
-## Multiple Linear Regression
+##  [Multiple Linear Regression](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/jupyter%20notebooks/MULTIPLE%20REGRESSION.ipynb)
 Sales from different marketing sources (Tv y Sales)
 
 Puntos interesantes a destacar:
@@ -20,11 +20,12 @@ Puntos interesantes a destacar:
 - Filtering using Zscore.
 - Evaluación requisitos del modelo (Residuals, autocorrelation, normality distribuited...)
 - Construcción del modelo
-
+- ...
+<br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/MLR_.jpg)
 
-## Logistic Regression 
+## [Logistic Regression](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/jupyter%20notebooks/LOGIT%20REGRESSION%20.ipynb)
 Modelo logit para predecir la supervivencia del titanic.
 
 ### ANEXO
@@ -35,6 +36,7 @@ Se que es un proyecto muy visto, dataset muy conocido de Kaggle. Sin embargo, m�
 - Tratamiento de datos nulos
 - Imputación de datos
 - Expresiones regulares
-...
+- ...
+<br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/PYTHON-MachineLearning-y-Estadistica/blob/main/JPGEs/LR_.jpg)
